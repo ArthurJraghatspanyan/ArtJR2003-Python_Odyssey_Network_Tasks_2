@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Bob Smith",
+    "age": 34,
+    "role": "manager"
+  },
+  {
+    "name": "Jessica Turner",
+    "age": 35,
+    "role": "manager"
+  }
+]

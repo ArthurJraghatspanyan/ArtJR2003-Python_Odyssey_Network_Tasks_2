@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Alice Johnston",
+      "age": 28,
+      "role": "engineer"
+    },
+    {
+      "name": "Bob Smith",
+      "age": 34,
+      "role": "manager"
+    },
+    {
+      "name": "Catherine Green",
+      "age": 25,
+      "role": "designer"
+    },
+    {
+        "name": "William Willson",
+        "age": 32,
+        "role": "designer"
+    },
+    {
+        "name": "Jessica Turner",
+        "age": 35,
+        "role": "manager"
+    },
+    {
+        "name": "Michael Aniston",
+        "age": 29,
+        "role": "manager"
+    }
+]
